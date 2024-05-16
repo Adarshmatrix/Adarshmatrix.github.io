@@ -77,7 +77,7 @@
                                 <img src="Resources/Img/bio-code-cover.jpg">
                                 <div class="event-description">
                                     <h4></h4>
-                                    <p>Algorithms to computational biology is like bread to butter. Our Hackathons will focus on solving problems pertaining to Computational BIology and using Data Science techniques, you will come across problems which have real-world implications.<br><br></p>
+                                    <p> In this exciting gathering of brilliant minds, we aim to foster collaboration, creativity, and problem-solving to address the pressing challenges faced by the medical field today. <br><br></p>
                                     <br><br>
                                 </div>
                         </div>
@@ -107,60 +107,20 @@
                     
                 </div>
             </section>
-        
-    
-        <section class="section-newsletter js--section-newsletter" id="newsletter">
-            <div style="padding: 20px; text-align: center;">
-                    <h2 class="ml-auto mr-auto" style="font-weight: 100;">NEWSLETTER</h2>
-                    <br>
-                    <h3 style="font-size: 100%;">A Monthly Newsletter !</h3>
-                <div class="row" style="text-align: center;">
-                    <p class="" style="text-align: center;font-size: 80%">Through our monthly newsletter, we would cover interesting work going on in the industry as well as academia,
-                        provide clear-cut synopsis of interesting research papers and get some insights into this field from alumni.</p>
-                </div>
-                <div class="row about-newsletter" style="width: 100%;margin: 0;">
-                        <a class="btn btn-full ml-auto mr-auto" target="new window" href="newsletter.pdf">View latest release here</a>
-                </div>
-                
-            </div>
-        
-        </section>
-
-
-        <section class="section-on_air_with_biobytes js--section-onair" style="padding-bottom: 10px;" id="on_air">
-
-                <div style="float: right;">
-                    <h2>On Air with BioBytes</h2>
-                    <p>In this section we would be interviewing prominent personalities
-                        in this domain. We believe all these would help in improving 
-                       our understanding of what all opportunities lie ahead and
-                       elevate the research atmosphere in our college.</p>                    
-                </div>
-                <div class="clearfix"></div>
-
-            <div class="about-on_air_with_biobytes" style="padding: 50px; text-align: center;">
-                <div class="iframe-container">
-                    <iframe class="" width="1000" height="563" src="https://www.youtube.com/embed/2yRrneVLnQE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                </div>
-            </div>        
-        </section>
-        
-        
      
         
         <footer>
             <div class="row">
                 <div class="col-md">
                     <ul class="footer-nav">
-                        <li><a href="mailto:biobytes@sc.iiitd.ac.in">Contact Us</a></li>
+                        <li><a href="mailto:kmcsrfmanipal@gmail.com">Contact Us</a></li>
                     </ul>
                 </div>
                 <div class="col-md">
                     <ul class="social-links">
-                        <li><a href="https://www.facebook.com/biobytes.iiitd/"><img src="Resources/Img/facebook.png" height="40" width="40"></a></li>
-                        <li><a href="https://twitter.com/BytesBio"><img src="Resources/Img/twitter.png" height="40" width="40"></a></li>
-                        <li><a href="https://www.youtube.com/channel/UCT4hNYy5PLVSTG8OCxedinw"><img src="Resources/Img/youtube.png" height="40" width="40"></a></li>
-                        <li><a href="https://www.instagram.com/biobytesiiitd/"><img src="Resources/Img/instagram.png" height="40" width="40"></a></li>
+                        <li><a href="https://www.facebook.com/kmcsrf/"><img src="Resources/Img/facebook.png" height="40" width="40"></a></li>
+                        <li><a href="https://www.youtube.com/channel/UCFwkPVs75vbwEu8UllNkSQA"><img src="Resources/Img/youtube.png" height="40" width="40"></a></li>
+                        <li><a href="https://www.instagram.com/srfkmc.manipal/"><img src="Resources/Img/instagram.png" height="40" width="40"></a></li>
                     </ul>
                 </div>
             </div>
