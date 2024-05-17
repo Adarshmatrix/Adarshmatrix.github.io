@@ -90,6 +90,7 @@ header{
 h4{
     text-align: center;
 }
+
 /********************************* NAV-BAR ****************************************/
 
 .solidbackground {
@@ -132,10 +133,6 @@ h4{
     margin-top: 5px;
     margin-left: -50px;
 }
-
-/*------------MAIN NAV BAR----------------*/
-
-
 
 /*------------------------------------------------BUTTONS---------------------------------------------------*/
 .btn:link,
@@ -247,33 +244,6 @@ input[type=submit]:active{
 .section-newsletter h3{
     color: black;
 }
-
-/******************************* SECTION On Air with BioBytes *******************************************/
-.section-on_air_with_biobytes
-{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)), url(Img/on_air_background.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    padding-top: 150px;
-    padding-bottom: 220px;
-}
-
-.section-on_air_with_biobytes h2{
-    color: rgb(255, 255, 255);
-    padding-top: 20px;
-    padding-bottom: 10px;
-    font-size: 110%;
-} 
-
-.section-on_air_with_biobytes p{
-    padding-bottom: 15px;
-    letter-spacing: 1px;
-    font-weight: 400;
-    color: #ffffff
-}
-
-
-
 
 /******************************* SECTION TEAM *******************************************/
 .section-team{
